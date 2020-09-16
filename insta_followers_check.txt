@@ -1,6 +1,6 @@
 **web scraping**
 urls=$$('a');
-for (url in urls) console.log(url[url].href);
+for (url in urls) console.log(urls[url].href);
 
 ##command for browser console 
 ##provides all urls in a particular page
