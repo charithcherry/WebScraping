@@ -1,0 +1,13 @@
+**web scraping**
+urls=$$('a');
+for (url in urls) console.log(url[url].href);
+
+##command for browser console 
+##provides all urls in a particular page
+Instagram followers check
+##save urls once with a timestamp 
+##check later(after a peroid of time) and save with a timestamp
+##difference gives the unfollowed user.
+
+###Or we can use Email Extractor chrome plugin for providing same functionality.
+  
